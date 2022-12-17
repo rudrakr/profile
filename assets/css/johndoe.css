@@ -11555,12 +11555,15 @@ pre .code {
   .header {
     height: 500px;
     min-height: 500px;
+    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, -0.3)), url(../imgs/avatar3.jpg);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, -0.3), rgba(0, 0, 0, 0.5)), url(../imgs/avatar3.jpg);
   }
   .header .social-icons {
     margin: auto;
   }
   .header .header-content {
     padding: 20px;
+    top:75%;
   }
   .header .header-content .header-mono {
     letter-spacing: 2px;
