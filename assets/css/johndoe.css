@@ -11557,6 +11557,10 @@ pre .code {
     min-height: 500px;
     background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, -0.3)), url(../imgs/avatar3.JPG);
     background-image: linear-gradient(to top, rgba(0, 0, 0, -0.3), rgba(0, 0, 0, 0.5)), url(../imgs/avatar3.JPG);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
   .header .social-icons {
     margin: auto;
