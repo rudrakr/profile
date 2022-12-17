@@ -11560,14 +11560,14 @@ pre .code {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: initial;
+    background-attachment: fixed;
   }
   .header .social-icons {
     margin: auto;
   }
   .header .header-content {
     padding: 20px;
-    top:75%;
+    top:77%;
   }
   .header .header-content .header-mono {
     letter-spacing: 2px;
